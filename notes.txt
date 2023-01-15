@@ -1,0 +1,2 @@
+
+// Upload images and other asset files into postimage website and use the https links, generated from postimage.
